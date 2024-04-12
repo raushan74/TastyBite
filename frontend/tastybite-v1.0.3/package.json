@@ -24,7 +24,7 @@
   "scripts": {
     "start": "vite",
    
-        "build": "[my-framework] build --output public",
+        "build": "vite build",
       
     
     "serve": "vite preview"
